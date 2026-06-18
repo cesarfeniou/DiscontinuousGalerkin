@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+"""
+Created on Wed Jun 17 15:52:32 2026
+
+@author: cesar
+"""
 
 from dataclasses import replace
 
